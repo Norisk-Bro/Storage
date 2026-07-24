@@ -1,1 +1,2 @@
 import SD
+SD.main()
