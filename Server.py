@@ -1,1 +1,2 @@
-python -c "import SD"
+import SD
+SD.main()
